@@ -1,0 +1,48 @@
+{
+  "manga_id": "M-001",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": [
+    "Dragon Slayer's Peerless Regression",
+    "Return of the Peerless Dragonslayer"
+  ],
+  "status": "Ongoing",
+  "author": "Jang Dam",
+  "artist": "Kkulbeol",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Bahkan setelah memenggal kepala raja naga terakhir dan menyelamatkan dunia, pahlawan kita mendapati tubuhnya hancur dan rekan-rekannya gugur. Di saat-saat terakhirnya, sebuah sistem misterius memberinya kesempatan untuk kembali ke masa lalu. Dengan ingatan masa depannya, ia bertekad untuk tidak mengulangi kesalahan yang sama dan menyelamatkan semua orang.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/dragonslayer-regression.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Regresi Sang Pahlawan",
+      "cbz_url": "https://github.com/MonstaComic/assets/releases/download/v1.0/dragonslayer_ch01.cbz",
+      "pages": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/raw/dragonslayer/ch01/page_001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/raw/dragonslayer/ch01/page_002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/raw/dragonslayer/ch01/page_003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/raw/dragonslayer/ch01/page_004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/raw/dragonslayer/ch01/page_005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Menempa Ulang Fondasi",
+      "cbz_url": "https://github.com/MonstaComic/assets/releases/download/v1.0/dragonslayer_ch02.cbz",
+      "pages": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/raw/dragonslayer/ch02/page_001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/raw/dragonslayer/ch02/page_002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/raw/dragonslayer/ch02/page_003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/raw/dragonslayer/ch02/page_004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/raw/dragonslayer/ch02/page_005.jpg"
+      ]
+    }
+  ]
+}
