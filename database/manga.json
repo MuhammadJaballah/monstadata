@@ -1,0 +1,94 @@
+[
+  {
+    "manga_id": "AUTO-1781333325760656",
+    "title": "THE HERO STARTS OVER AT THE ACADEMY",
+    "alternative_title": [],
+    "status": "Unknown",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "genres": [],
+    "type": "Comic",
+    "release_year": 2026,
+    "rating": 0,
+    "synopsis": "Deskripsi otomatis dibuat oleh sistem MonstaComic Auto-Sync.",
+    "cover_url": "",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Chapter 1",
+        "cbz_url": "https://raw.githubusercontent.com/MuhammadJaballah/monstadata/main/Action/The Hero Starts Over at the Academy.cbz",
+        "pages": []
+      }
+    ],
+    "cbz_url": "https://raw.githubusercontent.com/MuhammadJaballah/monstadata/main/Action/The Hero Starts Over at the Academy.cbz"
+  },
+  {
+    "manga_id": "AUTO-1781333325760673",
+    "title": "THE YOUNGEST SON OF THE EUNHAE MERCHANT GROUP",
+    "alternative_title": [],
+    "status": "Unknown",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "genres": [],
+    "type": "Comic",
+    "release_year": 2026,
+    "rating": 0,
+    "synopsis": "Deskripsi otomatis dibuat oleh sistem MonstaComic Auto-Sync.",
+    "cover_url": "",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Chapter 1",
+        "cbz_url": "https://raw.githubusercontent.com/MuhammadJaballah/monstadata/main/Action/The Youngest Son of the Eunhae Merchant Group.cbz",
+        "pages": []
+      }
+    ],
+    "cbz_url": "https://raw.githubusercontent.com/MuhammadJaballah/monstadata/main/Action/The Youngest Son of the Eunhae Merchant Group.cbz"
+  },
+  {
+    "manga_id": "AUTO-1781333325760932",
+    "title": "CHRONICLES OF THE MARTIAL GOD S RETURN",
+    "alternative_title": [],
+    "status": "Unknown",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "genres": [],
+    "type": "Comic",
+    "release_year": 2026,
+    "rating": 0,
+    "synopsis": "Deskripsi otomatis dibuat oleh sistem MonstaComic Auto-Sync.",
+    "cover_url": "",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Chapter 1",
+        "cbz_url": "https://raw.githubusercontent.com/MuhammadJaballah/monstadata/main/Comedy/Chronicles Of The Martial God_s Return.cbz",
+        "pages": []
+      }
+    ],
+    "cbz_url": "https://raw.githubusercontent.com/MuhammadJaballah/monstadata/main/Comedy/Chronicles Of The Martial God_s Return.cbz"
+  },
+  {
+    "manga_id": "AUTO-1781333325760144",
+    "title": "PICK ME UP, INFINITE GACHA",
+    "alternative_title": [],
+    "status": "Unknown",
+    "author": "Unknown",
+    "artist": "Unknown",
+    "genres": [],
+    "type": "Comic",
+    "release_year": 2026,
+    "rating": 0,
+    "synopsis": "Deskripsi otomatis dibuat oleh sistem MonstaComic Auto-Sync.",
+    "cover_url": "",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Chapter 1",
+        "cbz_url": "https://raw.githubusercontent.com/MuhammadJaballah/monstadata/main/Romance/Pick Me Up, Infinite Gacha.cbz",
+        "pages": []
+      }
+    ],
+    "cbz_url": "https://raw.githubusercontent.com/MuhammadJaballah/monstadata/main/Romance/Pick Me Up, Infinite Gacha.cbz"
+  }
+]
